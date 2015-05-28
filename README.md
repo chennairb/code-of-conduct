@@ -12,7 +12,7 @@ The members of the Chennai-Ruby group are expected to follow a code of conduct. 
 Members are expected to stay civil in their discussions online as well as offline. Especially towards newer members who may be asking very basis questions or are not aware of the conventions of online conversations. Members are also expected to warn and then report any violations. Such actions will invite a warning or an immidiate ban depending on the seriousness.
 
 ### No sexism:
-Members of the group shall try to make women participants comfortable by not indulging into sexist behavior. They will not use nude/pornographic content while interacting with the group. They will also not use sexist references in way of humour. Such action will invite a warning and a subsequent ban from the group.
+Members of the group shall try to make participants comfortable by not indulging into sexist behavior. They will not use nude/pornographic content while interacting with the group. They will also not use sexist references in way of humour. Such action will invite a warning and a subsequent ban from the group.
 
 ### No piracy or spam
 Members shall not share any pirated content in online or offline discussions. This includes pirated copies of books, educational videos, softwares and torrent link to them. Any such content will be removed by moderators without warning.
