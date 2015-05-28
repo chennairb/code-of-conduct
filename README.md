@@ -19,3 +19,8 @@ Members shall not share any pirated content in online or offline discussions. Th
 
 ## Point of Contact
 The group will have a volunteer acting as a point of contact for complains against violations, whose email-id will be displayed on the website.
+
+Current Point of Contact: Abhishek (zerothabhishek@gmail.com)
+
+## Note
+The code of conduct is applicable equally to all members. Its important to emphasize that the organizers, moderators, and experienced members are all expected to follow the rules, and can be penalised as appropriate in case of violations.
